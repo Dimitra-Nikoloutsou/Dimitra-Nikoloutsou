@@ -1,34 +1,34 @@
-- 👋 Hi, I’m Dimitra Nikoloutsou and I am from Greece 🌞
+👋 Hi, I’m Dimitra Nikoloutsou and I am from Greece 🌞
 
-- 👩‍💻 I am an enthusiastic self-taught data analyst, a lifelong learner, self motivated, autonomous, detail oriented and high reliable with a high level of curiocity
+👩‍💻 I am an enthusiastic self-taught data analyst, a lifelong learner, self motivated, autonomous, detail oriented and high reliable with a high level of curiocity
 
-- 🎓 I am a Civil Engineering breaking into Data Analytics 📊 
+🎓 I am a Civil Engineering breaking into Data Analytics 📊 
 
-- 🍀 I feel lucky that we live in an era where you can educate yourself for free
+🍀 I feel lucky that we live in an era where you can educate yourself for free
 
-- 💪 Skills: 
+💪 Skills: 
 
--- SQL (PostgreSQL | Microsoft SQL Server | Big Query)
+- SQL (PostgreSQL | Microsoft SQL Server | Big Query)
 
--- Advanced Excel skills
+- Advanced Excel skills
 
--- Tableau
+- Tableau
 
--- R Programming Language
+- R Programming Language
 
--- Greek | English | Spanish languages
+- Greek | English | Spanish languages
 
--- Organization skills
+- Organization skills
 
--- Analytical skills
+- Analytical skills
 
-👉  <b> <a href="https://github.com/Dimitra-Nikoloutsou/Portfolio-Guide.git">Portfolio Guide</a> </b>
 
-- 👓 I’m currently learning Python and by the new year I am planning to move forward with an MBA in Big Data and Business Intelligence
 
-- 👀 I’m looking for a Remote position as a Junior Data Analyst so to be able to apply my skills and grow professionaly and personaly
+<h2> 👉   <b> <a href="https://github.com/Dimitra-Nikoloutsou/Portfolio-Guide.git">Portfolio Guide</a> </b> </h2>
 
-- 📫 How to reach me:
+
+
+📫 How to reach me:
 
 dimitra.nikoloutsou@gmail.com
 
