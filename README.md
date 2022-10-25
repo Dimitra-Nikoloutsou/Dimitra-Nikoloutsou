@@ -2,7 +2,7 @@
 
 👩‍💻 I am an enthusiastic self-taught Data Analyst, a lifelong learner, self motivated, autonomous, detail oriented and high reliable with a high level of curiocity
 
-🎓 I am a Civil Engineering breaking into Data Analytics 📊 
+🎓 I am a Civil Engineering breaking into Data Analytics 📊 enjoying "building" queries and dashboards
 
 🍀 I feel lucky that we live in an era where you can educate yourself for free
 
