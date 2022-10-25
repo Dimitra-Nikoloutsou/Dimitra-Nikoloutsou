@@ -1,6 +1,6 @@
 👋 Hi, I’m Dimitra Nikoloutsou and I am from Greece 🌞
 
-👩‍💻 I am an enthusiastic self-taught data analyst, a lifelong learner, self motivated, autonomous, detail oriented and high reliable with a high level of curiocity
+👩‍💻 I am an enthusiastic self-taught Data Analyst, a lifelong learner, self motivated, autonomous, detail oriented and high reliable with a high level of curiocity
 
 🎓 I am a Civil Engineering breaking into Data Analytics 📊 
 
