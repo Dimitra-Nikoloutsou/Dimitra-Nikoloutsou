@@ -22,6 +22,8 @@
 
 -- Analytical skills
 
+👉  <b> <a href="https://github.com/Dimitra-Nikoloutsou/Portfolio-Guide.git">Portfolio Guide</a> </b>
+
 - 👓 I’m currently learning Python and by the new year I am planning to move forward with an MBA in Big Data and Business Intelligence
 
 - 👀 I’m looking for a Remote position as a Junior Data Analyst so to be able to apply my skills and grow professionaly and personaly
