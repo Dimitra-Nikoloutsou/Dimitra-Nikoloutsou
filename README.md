@@ -4,7 +4,7 @@
 
 I am self motivated, autonomous, detail oriented and high reliable with a high level of curiocity
 
-🎓 I am a Civil Engineering breaking into Data Analytics 📊 enjoying "building" queries and dashboards
+🎓 I am a Civil Engineer breaking into Data Analytics 📊 enjoying "building" queries and dashboards
 
 🍀 I feel lucky that we live in an era where you can educate yourself for free
 
