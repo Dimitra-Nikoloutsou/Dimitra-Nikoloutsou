@@ -14,7 +14,7 @@ I am self motivated, autonomous, detail oriented and high reliable with a high l
 
 - Advanced Excel skills
 
-- Tableau
+- Tableau, PowerBI
 
 - R Programming Language
 
