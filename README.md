@@ -12,7 +12,7 @@ I am self motivated, autonomous, detail oriented and high reliable with a high l
 
 - SQL (PostgreSQL | Microsoft SQL Server | Big Query)
 
-- Advanced Excel skills
+- Advanced Excel skills - Pivot Tables
 
 - Tableau, PowerBI
 
